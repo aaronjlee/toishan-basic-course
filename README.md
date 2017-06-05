@@ -19,3 +19,6 @@ Other sites with information on this Chinese dialect, including learning materia
 
 ## License
 [GNU General Public License v3.0](LICENSE)
+
+## Contact
+Best to contact me at [@aaronjlee](https://twitter.com/aaronjlee).
