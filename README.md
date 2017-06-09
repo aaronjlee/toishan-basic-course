@@ -13,7 +13,7 @@ The course summary, basic course textbook and digital audio files are currently 
 Other sites with information on this Chinese dialect, including learning materials, analysis and informal commentary.
 * [Taishanese](https://en.wikipedia.org/wiki/Taishanese) Wikipedia page, including a commentary on nomenclature
 * [Taishanese Language Home 台山话资源网](http://www.stephen-li.com/TaishaneseVocabulary/Taishanese.html) by Stephen Li
-* [Hoisanva | Seik heng m seik gong](https://sites.fitnyc.edu/users/gene_chin/hoisanva/) by Gene Chin
+* [Hoisanva - Seik heng m seik gong](https://sites.fitnyc.edu/users/gene_chin/hoisanva/) by Gene Chin
 * [Toisanese Chop Suey](http://taishanesetalk.blogspot.com/) by Stephen Li
 * [Four Counties blog](http://taishanese.blogspot.com/) by Aaron Lee
 
