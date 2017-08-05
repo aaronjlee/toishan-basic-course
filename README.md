@@ -8,7 +8,7 @@ This seven-volume series constitutes the Defense Language Institute (Army Langua
 The course summary, basic course textbook and digital audio files are currently accessible online.
 * [Chinese-Cantonese (Toishan) Basic Course](https://eric.ed.gov/?id=ED022176) publication abstract on eric.ed.gov
 * [Basic course textbook](resources/FSI-ED022176.pdf) PDF version hosted in this repository
-* [Textbook audio](https://ipracticecanto.wordpress.com/toishanese-textbook-audio/) hosted on Ben's Cantonese Practice Journal
+* [Textbook audio files](audio-files.md) hosted in this repository (originally hosted on [Ben's Cantonese Practice Journal](https://ipracticecanto.wordpress.com/toishanese-textbook-audio/))
 
 Other sites with information on this Chinese dialect, including learning materials, analysis and informal commentary.
 * [Taishanese](https://en.wikipedia.org/wiki/Taishanese) Wikipedia page, including a commentary on nomenclature
