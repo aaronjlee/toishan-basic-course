@@ -12,5 +12,5 @@
 	U.S. Army Language School
 	Presidio of Monterey, California
 
-* Lesson 1 - [Text](lesson_v01_l01.md), [Drill 1](), [Drill 2]()
-* Lesson 2 - [Text](lesson_v02_l02.md), [Drill 3](), [Drill 4](), [Drill 5](), [Drill 6]()
+* Lesson 1 - [Text](https://github.com/aaronjlee/toishan-basic-course/blob/master/basic-course/lesson-v01-l01.md), [Drill 1](), [Drill 2]()
+* Lesson 2 - [Text](https://github.com/aaronjlee/toishan-basic-course/blob/master/basic-course/lesson-v01-l02.md), [Drill 3](), [Drill 4](), [Drill 5](), [Drill 6]()
