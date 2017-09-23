@@ -5,7 +5,7 @@ Each audio file corresponds to a section of the book.
 
 ## Drills
 
-* [Drill 1](https://github.com/aaronjlee/toishan-basic-course/blob/master/resources/audio/toisan-cantonese-drill-01.mp3)
+* [Drill 1](https://github.com/aaronjlee/toishan-basic-course/blob/master/resources/audio/toisan-cantonese-drill-01-1.mp3)
 * [Drill 2](https://github.com/aaronjlee/toishan-basic-course/blob/master/resources/audio/toisan-cantonese-drill-02.mp3)
 * [Drill 3](https://github.com/aaronjlee/toishan-basic-course/blob/master/resources/audio/toisan-cantonese-drill-03.mp3)
 * [Drill 4](https://github.com/aaronjlee/toishan-basic-course/blob/master/resources/audio/toisan-cantonese-drill-04.mp3)
