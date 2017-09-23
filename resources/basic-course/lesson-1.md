@@ -59,7 +59,7 @@
 | ìm | im | īm | īṃ | îm | ip | ìp | îp |
 | ièm | iem | iēm | iẹ̄m | iêm | iep | ièp | iêp |
 | aàn | aan | aān | aạ̄n | aân | aat | aàt | aât |
-| ìn | in | īn | į̄ | în | it | ìt | ît |
+| ìn | in | īn | ị̄ | în | it | ìt | ît |
 | ièn | ien | iēn | iẹ̄n | iên | iet | ièt | iêt |
 | òn | on | ōn | ọ̄n | ôn | ot | òt | ôt |
 | oòn | oon | oōn | oọ̄n | oôn | oot | oòt | oôt |
