@@ -1,6 +1,6 @@
 # Audio files
 
-These audio files are currently accessible in [this repository](audio). All items are still hosted on [Ben's Cantonese Practice Journal](https://ipracticecanto.wordpress.com/toishanese-textbook-audio/).
+These audio files are currently accessible in this audio folder. All items are still hosted on [Ben's Cantonese Practice Journal](https://ipracticecanto.wordpress.com/toishanese-textbook-audio/).
 Each audio file corresponds to a section of the book.
 
 ## Drills
