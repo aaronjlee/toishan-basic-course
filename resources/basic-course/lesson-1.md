@@ -19,7 +19,7 @@
 ## Finals
 
 | a   |     | e  | i  |     | o  | oo  | |
-| -   | -   | -  | -  | -   | -- | --  | |
+| -   | -   | -  | -  | -   | -- | --  | - |
 | aai |     | ei |    |     | oi | ooi | |
 | aau | iau |    | iu |     |    |     | |
 | aam |     |    | im | iem |    |     | |
@@ -52,6 +52,7 @@
 ## Drill 2. Eight Tones
 
 | Up Ev | Up Ri | Lo Ev | Lo Ri | Lo De | Up En | Mi En | Lo En |
+| - | - | - | - | - | - | - | - |
 | x | x | x | x | x | x | x | x |
 | 33 | 55 | 11 | 10 | 42 | 55 | 33 | 42 |
 | aàm | aam | aām | aạ̄m | aâm | aap | aàp | aâp |
