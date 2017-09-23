@@ -3,7 +3,7 @@
 ## Initials
 
 | | Unaspirated Stops | Aspirated Stops | Nasals | Fricatives | Semi-Vowels |
-| - | - | - | - | - |
+| - | - | - | - | - | - |
 | Labials | p | p’ | m | f | |
 | Dentals | t | t’ | n | lh | l | 
 | Palatals | ch | ch’ | | s | y |
